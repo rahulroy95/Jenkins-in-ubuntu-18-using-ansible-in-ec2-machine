@@ -6,4 +6,4 @@ Command for execute playbook:
 
 ansible-playbook -i <inventory file name> ansible-install-jenkins-ubuntu18.yml
 
-You will need to configuree the host "<Your intansce ip add" ,key-pair for ssh with your target server credentials in inevntory file under test-server group.
+You will need to configuree the host "<Your intansce ip add>" ,key-pair for ssh with your target server credentials in inevntory file under test-server group.
